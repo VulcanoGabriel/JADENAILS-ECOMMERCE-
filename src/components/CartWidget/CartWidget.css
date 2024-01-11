@@ -1,0 +1,9 @@
+.divCart {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    visibility: hidden;
+}
+
+.divCartActive {
+    visibility: visible;
+}
